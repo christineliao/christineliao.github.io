@@ -12,12 +12,12 @@ p {
 
 a:link {
   color: #fff8de;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
   color: #fff8de;
-  text-decoration: none; 
+  text-decoration: underline; 
 }
 
 a:hover {
